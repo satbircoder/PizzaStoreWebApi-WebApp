@@ -1,0 +1,45 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+<ul class="card d-inline-block" id="pizzas-list">
+
+</ul>
+<div>
+    <img id="imgContainer"/>
+</div>
+@section Scripts{
+    <script>
+        let url = "https://localhost:7055/pizzas";
+        let pizzasList = document.getElementById("pizzas-list");
+        let pizzaImage = document.getElementById("imgContainer");
+        fetch(url)
+                .then(response=>response.json())
+                .then(data=> showPizzas(data))
+                .catch(ex =>{
+                    alert("error");
+                    console.error(ex);
+                });
+        function showPizzas(pizzas){
+            pizzas.forEach(pizza => {
+                let li = document.createElement("li");
+                let text = `${pizza.productName}(\$${pizza.productPrice})`;
+                let image = document.createElement("img");
+                let baseStr64=`${pizza.contentImage}`;
+                
+                image.setAttribute('src', "data:image/jpg;base64," + baseStr64);
+                li.appendChild(document.createTextNode(text));
+                //pizzaImage.appendChild(image);
+                pizzasList.appendChild(li);
+                document.body.appendChild(image);
+            });
+        }
+        
+    </script>
+}
+
+@*<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>*@

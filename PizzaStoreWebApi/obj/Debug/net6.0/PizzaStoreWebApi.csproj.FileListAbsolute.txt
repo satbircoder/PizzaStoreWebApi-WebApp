@@ -1,0 +1,272 @@
+S:\Students\30048567\PizzaStoreWebApi\bin\Debug\net6.0\appsettings.Development.json
+S:\Students\30048567\PizzaStoreWebApi\bin\Debug\net6.0\appsettings.json
+S:\Students\30048567\PizzaStoreWebApi\bin\Debug\net6.0\PizzaStoreWebApi.exe
+S:\Students\30048567\PizzaStoreWebApi\bin\Debug\net6.0\PizzaStoreWebApi.deps.json
+S:\Students\30048567\PizzaStoreWebApi\bin\Debug\net6.0\PizzaStoreWebApi.runtimeconfig.json
+S:\Students\30048567\PizzaStoreWebApi\bin\Debug\net6.0\PizzaStoreWebApi.dll
+S:\Students\30048567\PizzaStoreWebApi\bin\Debug\net6.0\PizzaStoreWebApi.pdb
+S:\Students\30048567\PizzaStoreWebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+S:\Students\30048567\PizzaStoreWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+S:\Students\30048567\PizzaStoreWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+S:\Students\30048567\PizzaStoreWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+S:\Students\30048567\PizzaStoreWebApi\obj\Debug\net6.0\PizzaStoreWebApi.csproj.AssemblyReference.cache
+S:\Students\30048567\PizzaStoreWebApi\obj\Debug\net6.0\PizzaStoreWebApi.GeneratedMSBuildEditorConfig.editorconfig
+S:\Students\30048567\PizzaStoreWebApi\obj\Debug\net6.0\PizzaStoreWebApi.AssemblyInfoInputs.cache
+S:\Students\30048567\PizzaStoreWebApi\obj\Debug\net6.0\PizzaStoreWebApi.AssemblyInfo.cs
+S:\Students\30048567\PizzaStoreWebApi\obj\Debug\net6.0\PizzaStoreWebApi.csproj.CoreCompileInputs.cache
+S:\Students\30048567\PizzaStoreWebApi\obj\Debug\net6.0\PizzaStoreWebApi.MvcApplicationPartsAssemblyInfo.cs
+S:\Students\30048567\PizzaStoreWebApi\obj\Debug\net6.0\PizzaStoreWebApi.MvcApplicationPartsAssemblyInfo.cache
+S:\Students\30048567\PizzaStoreWebApi\obj\Debug\net6.0\staticwebassets\msbuild.PizzaStoreWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+S:\Students\30048567\PizzaStoreWebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.PizzaStoreWebApi.props
+S:\Students\30048567\PizzaStoreWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PizzaStoreWebApi.props
+S:\Students\30048567\PizzaStoreWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PizzaStoreWebApi.props
+S:\Students\30048567\PizzaStoreWebApi\obj\Debug\net6.0\staticwebassets.pack.json
+S:\Students\30048567\PizzaStoreWebApi\obj\Debug\net6.0\staticwebassets.build.json
+S:\Students\30048567\PizzaStoreWebApi\obj\Debug\net6.0\staticwebassets.development.json
+S:\Students\30048567\PizzaStoreWebApi\obj\Debug\net6.0\scopedcss\bundle\PizzaStoreWebApi.styles.css
+S:\Students\30048567\PizzaStoreWebApi\obj\Debug\net6.0\PizzaStoreWebApi.csproj.CopyComplete
+S:\Students\30048567\PizzaStoreWebApi\obj\Debug\net6.0\PizzaStoreWebApi.dll
+S:\Students\30048567\PizzaStoreWebApi\obj\Debug\net6.0\refint\PizzaStoreWebApi.dll
+S:\Students\30048567\PizzaStoreWebApi\obj\Debug\net6.0\PizzaStoreWebApi.pdb
+S:\Students\30048567\PizzaStoreWebApi\obj\Debug\net6.0\PizzaStoreWebApi.genruntimeconfig.cache
+S:\Students\30048567\PizzaStoreWebApi\obj\Debug\net6.0\ref\PizzaStoreWebApi.dll
+S:\Students\30048567\PizzaStoreWebApi\bin\Debug\net6.0\AWSSDK.Core.dll
+S:\Students\30048567\PizzaStoreWebApi\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+S:\Students\30048567\PizzaStoreWebApi\bin\Debug\net6.0\DnsClient.dll
+S:\Students\30048567\PizzaStoreWebApi\bin\Debug\net6.0\MongoDB.Bson.dll
+S:\Students\30048567\PizzaStoreWebApi\bin\Debug\net6.0\MongoDB.Driver.dll
+S:\Students\30048567\PizzaStoreWebApi\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+S:\Students\30048567\PizzaStoreWebApi\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+S:\Students\30048567\PizzaStoreWebApi\bin\Debug\net6.0\SharpCompress.dll
+S:\Students\30048567\PizzaStoreWebApi\bin\Debug\net6.0\Snappier.dll
+S:\Students\30048567\PizzaStoreWebApi\bin\Debug\net6.0\ZstdSharp.dll
+S:\Students\30048567\PizzaStoreWebApi\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+S:\Students\30048567\PizzaStoreWebApi\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+S:\Students\30048567\PizzaStoreWebApi\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\appsettings.Development.json
+E:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\appsettings.json
+E:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\PizzaStoreWebApi.exe
+E:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\PizzaStoreWebApi.deps.json
+E:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\PizzaStoreWebApi.runtimeconfig.json
+E:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\PizzaStoreWebApi.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\PizzaStoreWebApi.pdb
+E:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\AWSSDK.Core.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\DnsClient.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\MongoDB.Bson.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\MongoDB.Driver.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\SharpCompress.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\Snappier.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\ZstdSharp.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+E:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+E:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\obj\Debug\net6.0\PizzaStoreWebApi.csproj.AssemblyReference.cache
+E:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\obj\Debug\net6.0\PizzaStoreWebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\obj\Debug\net6.0\PizzaStoreWebApi.AssemblyInfoInputs.cache
+E:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\obj\Debug\net6.0\PizzaStoreWebApi.AssemblyInfo.cs
+E:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\obj\Debug\net6.0\PizzaStoreWebApi.csproj.CoreCompileInputs.cache
+E:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\obj\Debug\net6.0\PizzaStoreWebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\obj\Debug\net6.0\PizzaStoreWebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\obj\Debug\net6.0\staticwebassets\msbuild.PizzaStoreWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.PizzaStoreWebApi.props
+E:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PizzaStoreWebApi.props
+E:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PizzaStoreWebApi.props
+E:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\obj\Debug\net6.0\staticwebassets.build.json
+E:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\obj\Debug\net6.0\staticwebassets.development.json
+E:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\obj\Debug\net6.0\scopedcss\bundle\PizzaStoreWebApi.styles.css
+E:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\obj\Debug\net6.0\PizzaStoreWebApi.csproj.CopyComplete
+E:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\obj\Debug\net6.0\PizzaStoreWebApi.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\obj\Debug\net6.0\refint\PizzaStoreWebApi.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\obj\Debug\net6.0\PizzaStoreWebApi.pdb
+E:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\obj\Debug\net6.0\PizzaStoreWebApi.genruntimeconfig.cache
+E:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\obj\Debug\net6.0\ref\PizzaStoreWebApi.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\appsettings.Development.json
+D:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\appsettings.json
+D:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\PizzaStoreWebApi.exe
+D:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\PizzaStoreWebApi.deps.json
+D:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\PizzaStoreWebApi.runtimeconfig.json
+D:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\PizzaStoreWebApi.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\PizzaStoreWebApi.pdb
+D:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\AWSSDK.Core.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\DnsClient.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\MongoDB.Bson.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\MongoDB.Driver.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\SharpCompress.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\Snappier.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\ZstdSharp.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+D:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+D:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\obj\Debug\net6.0\PizzaStoreWebApi.csproj.AssemblyReference.cache
+D:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\obj\Debug\net6.0\PizzaStoreWebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\obj\Debug\net6.0\PizzaStoreWebApi.AssemblyInfoInputs.cache
+D:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\obj\Debug\net6.0\PizzaStoreWebApi.AssemblyInfo.cs
+D:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\obj\Debug\net6.0\PizzaStoreWebApi.csproj.CoreCompileInputs.cache
+D:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\obj\Debug\net6.0\PizzaStoreWebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\obj\Debug\net6.0\PizzaStoreWebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\obj\Debug\net6.0\staticwebassets\msbuild.PizzaStoreWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.PizzaStoreWebApi.props
+D:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PizzaStoreWebApi.props
+D:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PizzaStoreWebApi.props
+D:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\obj\Debug\net6.0\scopedcss\bundle\PizzaStoreWebApi.styles.css
+D:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\obj\Debug\net6.0\PizzaStoreWebApi.csproj.CopyComplete
+D:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\obj\Debug\net6.0\PizzaStoreWebApi.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\obj\Debug\net6.0\refint\PizzaStoreWebApi.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\obj\Debug\net6.0\PizzaStoreWebApi.pdb
+D:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\obj\Debug\net6.0\PizzaStoreWebApi.genruntimeconfig.cache
+D:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\obj\Debug\net6.0\ref\PizzaStoreWebApi.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2\PizzaStoreWebApi\bin\Debug\net6.0\ParkBee.MongoDb.MongoContext.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\appsettings.Development.json
+E:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\appsettings.json
+E:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\PizzaStoreWebApi.exe
+E:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\PizzaStoreWebApi.deps.json
+E:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\PizzaStoreWebApi.runtimeconfig.json
+E:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\PizzaStoreWebApi.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\PizzaStoreWebApi.pdb
+E:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\AWSSDK.Core.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\DnsClient.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\MongoDB.Bson.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\MongoDB.Driver.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\ParkBee.MongoDb.MongoContext.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\SharpCompress.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\Snappier.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\ZstdSharp.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+E:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+E:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\obj\Debug\net6.0\PizzaStoreWebApi.csproj.AssemblyReference.cache
+E:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\obj\Debug\net6.0\PizzaStoreWebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\obj\Debug\net6.0\PizzaStoreWebApi.AssemblyInfoInputs.cache
+E:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\obj\Debug\net6.0\PizzaStoreWebApi.AssemblyInfo.cs
+E:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\obj\Debug\net6.0\PizzaStoreWebApi.csproj.CoreCompileInputs.cache
+E:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\obj\Debug\net6.0\PizzaStoreWebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\obj\Debug\net6.0\PizzaStoreWebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\obj\Debug\net6.0\staticwebassets\msbuild.PizzaStoreWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.PizzaStoreWebApi.props
+E:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PizzaStoreWebApi.props
+E:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PizzaStoreWebApi.props
+E:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\obj\Debug\net6.0\staticwebassets.build.json
+E:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\obj\Debug\net6.0\staticwebassets.development.json
+E:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\obj\Debug\net6.0\scopedcss\bundle\PizzaStoreWebApi.styles.css
+E:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\obj\Debug\net6.0\PizzaStoreWebApi.csproj.CopyComplete
+E:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\obj\Debug\net6.0\PizzaStoreWebApi.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\obj\Debug\net6.0\refint\PizzaStoreWebApi.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\obj\Debug\net6.0\PizzaStoreWebApi.pdb
+E:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\obj\Debug\net6.0\PizzaStoreWebApi.genruntimeconfig.cache
+E:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\obj\Debug\net6.0\ref\PizzaStoreWebApi.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\appsettings.Development.json
+D:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\appsettings.json
+D:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\PizzaStoreWebApi.exe
+D:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\PizzaStoreWebApi.deps.json
+D:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\PizzaStoreWebApi.runtimeconfig.json
+D:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\PizzaStoreWebApi.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\PizzaStoreWebApi.pdb
+D:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\AWSSDK.Core.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\DnsClient.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\MongoDB.Bson.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\MongoDB.Driver.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\ParkBee.MongoDb.MongoContext.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\SharpCompress.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\Snappier.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\ZstdSharp.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+D:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+D:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\obj\Debug\net6.0\PizzaStoreWebApi.csproj.AssemblyReference.cache
+D:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\obj\Debug\net6.0\PizzaStoreWebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\obj\Debug\net6.0\PizzaStoreWebApi.AssemblyInfoInputs.cache
+D:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\obj\Debug\net6.0\PizzaStoreWebApi.AssemblyInfo.cs
+D:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\obj\Debug\net6.0\PizzaStoreWebApi.csproj.CoreCompileInputs.cache
+D:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\obj\Debug\net6.0\PizzaStoreWebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\obj\Debug\net6.0\PizzaStoreWebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\obj\Debug\net6.0\staticwebassets\msbuild.PizzaStoreWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.PizzaStoreWebApi.props
+D:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PizzaStoreWebApi.props
+D:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PizzaStoreWebApi.props
+D:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\obj\Debug\net6.0\scopedcss\bundle\PizzaStoreWebApi.styles.css
+D:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\obj\Debug\net6.0\PizzaStoreWebApi.csproj.CopyComplete
+D:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\obj\Debug\net6.0\PizzaStoreWebApi.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\obj\Debug\net6.0\refint\PizzaStoreWebApi.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\obj\Debug\net6.0\PizzaStoreWebApi.pdb
+D:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\obj\Debug\net6.0\PizzaStoreWebApi.genruntimeconfig.cache
+D:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\obj\Debug\net6.0\ref\PizzaStoreWebApi.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+E:\Diploma\MVC and Non Relational Databases\Assessment_2 Help\PizzaStoreWebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
