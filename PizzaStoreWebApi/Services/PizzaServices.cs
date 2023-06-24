@@ -20,15 +20,13 @@ namespace PizzaStoreWebApi.Services
             var mongoDatabase = mongoClient.GetDatabase(pizzaStoreDatabaseSettings.Value.DatabaseName);
             pizzaCollection = mongoDatabase.GetCollection<PizzasDetails>(pizzaStoreDatabaseSettings.Value.PizzaCollectionName);
         }
-
         [MapToApiVersion("1.0")]
-        //[MapToApiVersion("2.0")]
         //[Route("api/v{version:apiVersion}/[controller]")]
-        [Route("pizzas")]
+        //[Route("pizzas")]
         public async Task<List<PizzasDetails>> PizzasListAsync(PizzaQueryParameters queryParameters)
         {
             PizzasDetails newpizza = new PizzasDetails();
-            IMongoQueryable<PizzasDetails> pizzas = pizzaCollection.AsQueryable();
+            IMongoQueryable<PizzasDetails> pizzas = pizzaCollection.AsQueryable().Where(x=>x.IsProductAvailable==true);
             
             if (queryParameters.MinPrice != null)
             {
@@ -43,6 +41,12 @@ namespace PizzaStoreWebApi.Services
                 pizzas = pizzas.Where(
                     p => p.ProductDescription.ToLower().Contains(queryParameters.SearchTerm.ToLower()) ||
                     p.ProductName.ToLower().Contains(queryParameters.SearchTerm.ToLower()));
+            }
+            if (!string.IsNullOrEmpty(queryParameters.Name))
+            {
+                pizzas = pizzas.Where(
+                    p => p.ProductName.ToLower().Contains(
+                        queryParameters.Name.ToLower()));
             }
             if (!string.IsNullOrEmpty(queryParameters.Description))
             {
@@ -62,7 +66,7 @@ namespace PizzaStoreWebApi.Services
 
             return await (await pizzas.ToCursorAsync()).ToListAsync();
         }
-        public async Task<PizzasDetails> GetPizzaDetailByIdAsync(string productId)
+        public async Task<PizzasDetails> GetPizzaDetailByIdAsync([FromQuery]string productId)
         {
             return await pizzaCollection.Find(x => x.ProductId == productId).FirstOrDefaultAsync();
         }

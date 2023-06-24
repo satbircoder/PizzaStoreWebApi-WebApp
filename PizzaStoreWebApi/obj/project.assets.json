@@ -1558,11 +1558,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Diploma\\MVC and Non Relational Databases\\Assessment_2 Help\\PizzaStoreWebApi\\PizzaStoreWebApi.csproj",
+      "projectUniqueName": "E:\\Diploma\\MVC and Non Relational Databases\\Assessment_2\\PizzaStoreWebApi\\PizzaStoreWebApi.csproj",
       "projectName": "PizzaStoreWebApi",
-      "projectPath": "E:\\Diploma\\MVC and Non Relational Databases\\Assessment_2 Help\\PizzaStoreWebApi\\PizzaStoreWebApi.csproj",
+      "projectPath": "E:\\Diploma\\MVC and Non Relational Databases\\Assessment_2\\PizzaStoreWebApi\\PizzaStoreWebApi.csproj",
       "packagesPath": "C:\\Users\\satbi\\.nuget\\packages\\",
-      "outputPath": "E:\\Diploma\\MVC and Non Relational Databases\\Assessment_2 Help\\PizzaStoreWebApi\\obj\\",
+      "outputPath": "E:\\Diploma\\MVC and Non Relational Databases\\Assessment_2\\PizzaStoreWebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

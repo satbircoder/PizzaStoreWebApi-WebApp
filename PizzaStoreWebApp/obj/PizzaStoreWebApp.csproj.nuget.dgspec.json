@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Diploma\\MVC and Non Relational Databases\\Assessment_2 Help\\PizzaStoreWebApp\\PizzaStoreWebApp.csproj": {}
+    "E:\\Diploma\\MVC and Non Relational Databases\\Assessment_2\\PizzaStoreWebApp\\PizzaStoreWebApp.csproj": {}
   },
   "projects": {
-    "E:\\Diploma\\MVC and Non Relational Databases\\Assessment_2 Help\\PizzaStoreWebApp\\PizzaStoreWebApp.csproj": {
+    "E:\\Diploma\\MVC and Non Relational Databases\\Assessment_2\\PizzaStoreWebApp\\PizzaStoreWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Diploma\\MVC and Non Relational Databases\\Assessment_2 Help\\PizzaStoreWebApp\\PizzaStoreWebApp.csproj",
+        "projectUniqueName": "E:\\Diploma\\MVC and Non Relational Databases\\Assessment_2\\PizzaStoreWebApp\\PizzaStoreWebApp.csproj",
         "projectName": "PizzaStoreWebApp",
-        "projectPath": "E:\\Diploma\\MVC and Non Relational Databases\\Assessment_2 Help\\PizzaStoreWebApp\\PizzaStoreWebApp.csproj",
+        "projectPath": "E:\\Diploma\\MVC and Non Relational Databases\\Assessment_2\\PizzaStoreWebApp\\PizzaStoreWebApp.csproj",
         "packagesPath": "C:\\Users\\satbi\\.nuget\\packages\\",
-        "outputPath": "E:\\Diploma\\MVC and Non Relational Databases\\Assessment_2 Help\\PizzaStoreWebApp\\obj\\",
+        "outputPath": "E:\\Diploma\\MVC and Non Relational Databases\\Assessment_2\\PizzaStoreWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,6 +44,34 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Contracts": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.13, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

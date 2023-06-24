@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F25Q1RHRXT+dW/1SLBUXL1KBmK0YkLdabAjwJPECO+XiEgnQN0c9czxqwFxc5ARoWf6SzJZPE2sQfOMgtL3yAw==",
+  "dgSpecHash": "vJaYFuaqW9zykvvogRLm0scIVlD986rcDXfNnWfVnNxiaUTG/lr1Eenmmz8wrQL+z5pFK5VMvBMdf2pz0G3P/w==",
   "success": true,
-  "projectFilePath": "E:\\Diploma\\MVC and Non Relational Databases\\Assessment_2 Help\\PizzaStoreWebApi\\PizzaStoreWebApi.csproj",
+  "projectFilePath": "E:\\Diploma\\MVC and Non Relational Databases\\Assessment_2\\PizzaStoreWebApi\\PizzaStoreWebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\satbi\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\satbi\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

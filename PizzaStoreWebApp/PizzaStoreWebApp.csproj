@@ -6,4 +6,40 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Remove="wwwroot\Images\ChickenSupremeSM.jpg" />
+    <Content Remove="wwwroot\Images\HamandCheeseSM.jpg" />
+    <Content Remove="wwwroot\Images\IndiChickenSM.jpg" />
+    <Content Remove="wwwroot\Images\MeatloverSM.jpg" />
+    <Content Remove="wwwroot\Images\PepproniSm.jpg" />
+    <Content Remove="wwwroot\Images\shopping.svg" />
+    <Content Remove="wwwroot\Images\SimplyCheeseSM.jpg" />
+    <Content Remove="wwwroot\Images\SupremeSM.jpg" />
+    <Content Remove="wwwroot\Images\TandoriChickenSM.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Images\ChickenSupremeSM.jpg" />
+    <None Include="wwwroot\Images\HamandCheeseSM.jpg" />
+    <None Include="wwwroot\Images\IndiChickenSM.jpg" />
+    <None Include="wwwroot\Images\MeatloverSM.jpg" />
+    <None Include="wwwroot\Images\PepproniSm.jpg" />
+    <None Include="wwwroot\Images\shopping.svg" />
+    <None Include="wwwroot\Images\SimplyCheeseSM.jpg" />
+    <None Include="wwwroot\Images\SupremeSM.jpg" />
+    <None Include="wwwroot\Images\TandoriChickenSM.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.16" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="6.0.16" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.16" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.16">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Contracts" Version="5.0.2" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.13" />
+  </ItemGroup>
+
 </Project>

@@ -24,21 +24,20 @@ namespace PizzaStoreWebApi.Models
         [Required]
         public decimal ProductPrice { get; set; }
 
-        [BsonElement("Catergory")]
+        [BsonElement("Category")]
         [Required]
-        public string? Catergory { get; set; }
+        public string? Category { get; set; }
 
         [BsonElement("IsProductAvailable")]
         [Required]
         public bool IsProductAvailable { get; set; }
 
-        [BsonElement("ImageUrl")]
-        public string? ImageUrl { get; set; }
-        public IFormFile File { get; set; }
+        [BsonIgnore]
+        public IFormFile? File { get; set; }
+        [BsonElement("ContentImage")]
         public byte[]? ContentImage { get; set; }
 
-       //[BsonIgnore]
-       
+
 
     }
 

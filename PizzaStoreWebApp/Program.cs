@@ -1,4 +1,15 @@
+using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
+using PizzaStoreWebApp.Areas.Identity.Data;
+using PizzaStoreWebApp.Data;
 var builder = WebApplication.CreateBuilder(args);
+var connectionString = builder.Configuration.GetConnectionString("PizzaStoreWebAppContextConnection") ?? throw new InvalidOperationException("Connection string 'PizzaStoreWebAppContextConnection' not found.");
+
+builder.Services.AddDbContext<PizzaStoreWebAppContext>(options =>
+    options.UseSqlServer(connectionString));
+
+builder.Services.AddDefaultIdentity<PizzaStoreWebAppUser>(options => options.SignIn.RequireConfirmedAccount = true)
+    .AddEntityFrameworkStores<PizzaStoreWebAppContext>();
 
 // Add services to the container.
 builder.Services.AddRazorPages();
@@ -17,6 +28,7 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
+app.UseAuthentication();;
 
 app.UseAuthorization();
 
