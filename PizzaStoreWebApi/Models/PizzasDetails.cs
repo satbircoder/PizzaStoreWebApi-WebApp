@@ -2,6 +2,7 @@
 using MongoDB.Bson;
 using System.ComponentModel.DataAnnotations;
 using System.Xml.Linq;
+using Amazon.Runtime.Internal.Transform;
 
 namespace PizzaStoreWebApi.Models
 {
@@ -37,9 +38,27 @@ namespace PizzaStoreWebApi.Models
         [BsonElement("ContentImage")]
         public byte[]? ContentImage { get; set; }
 
-
-
+        [BsonIgnore]
+        public PizzaBase Base { get; set; }
     }
+
+    public enum PizzaBase
+    {
+        Classic,
+        Deep,
+        Thin,
+        GlutenFree,
+        CheesyCrust
+    }
+
+    //IDictionary<string, double> PizzaBasePrice = new Dictionary<string, double>
+    //{
+    //    { "Classic", 0 },
+    //    { "Deep", 0 },
+    //    { "Thin", 0 },
+    //    { "GlutenFree", 3.45 },
+    //    { "CheesyCrust", 3.45 }
+    //};
 
     public class PizzaResponse //Class to get the response of webapi
     {
